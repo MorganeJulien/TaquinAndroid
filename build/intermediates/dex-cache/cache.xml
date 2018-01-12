@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_2e884f5d825d707d2425096693965c35c47f2493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_8480fb3a99ce635c9368c185c120829a873c749c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_fa381e74b8c07431233bc603d71e787aa0df117a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_8f67c40b2c47191115a5abd9f0871efaeb473ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_07dd22a3d3d86c3ca9031667b4da72415d1dab24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_ab453038b048d9240545c61dd599fdd01ee4e8cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_94234e8534838b2f30c8b0204d8b6e4d74fc15b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_3cab216213c6846581222687544dd2f58cc5a549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_a7ba2eb2f7ff76979b40fc5e9aad138835a7e055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_d522ee29ec9b228236b5e7cf56ad6d2811534d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_445f126546273064e6a37be26acfb98b74aa6b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_9b534796737a25a49fe72413a419367762d38af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/morgane/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_73a21dc599735eb1f66e324774a47bdc7002a8fb.jar" />
+    </item>
+
+</items>
